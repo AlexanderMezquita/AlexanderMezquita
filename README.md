@@ -1,5 +1,5 @@
 
-<img src="./assets/bgimage.png" alt="Background Image" width="100%" height="280px">
+<img src="./assets/bgimage.png" alt="Background Image" width="100%" height="240px">
 <h3 align="left">I spend significant amount of time learning new coding languages and techniques, experimenting with different design concepts, and exploring the latest trends in web development. I'm highly motivated, dedicated, and eager to learn. I'm also comfortable working independently or as part of a team, and I'm always looking for ways to improve my skills and seeking out for new challenges.</h3>
 
 - 📫 Reach me **alexmezsan@gmail.com**
